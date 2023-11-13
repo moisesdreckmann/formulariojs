@@ -18,7 +18,7 @@ e a biblioteca react-hook-form em conjunto com validações do Yup.
 * Yup para validação de campos
 * JavaScript (ES6+)   
 
-<img width="300" height="300" alt="img" src="https://github.com/moisesdreckmann/formulariojs/assets/95986307/a41470b6-fac2-46ac-9ec1-22974cb99331">
+<img width="600" height="300" alt="img" src="https://github.com/moisesdreckmann/formulariojs/assets/95986307/a41470b6-fac2-46ac-9ec1-22974cb99331">
 
 
 Link: https://moisesdreckmann.github.io/formulariojs/
